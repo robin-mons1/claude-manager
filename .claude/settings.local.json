@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm view:*)",
+      "Bash(npm ls:*)",
+      "Bash(cat:*)",
+      "Bash(npx vue-tsc:*)",
+      "Bash(npm run dev:electron:*)",
+      "Bash(timeout:*)"
+    ]
+  }
+}
